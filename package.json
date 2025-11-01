@@ -5,7 +5,7 @@
   "proxy": "http://localhost:8083",
   "dependencies": {
     "@material-ui/core": "^4.7.1",
-    "@material-ui/styles": "latest",
+    "@material-ui/styles": "4.11.5",
     "clsx": "latest",
     "material-ui": "^0.20.2",
     "prop-types": "latest",
